@@ -1,0 +1,5 @@
+{
+  "name": "JayT Crazy Eights",
+  "description": "A classic Crazy Eights card game built with React and Tailwind CSS. Play against an AI, match suits or ranks, and use the wild 8s to change the game!",
+  "requestFramePermissions": []
+}
